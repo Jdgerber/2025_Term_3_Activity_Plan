@@ -510,17 +510,18 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Wednesday, 30 July 2025",SWELLENDAM SS,"Cloete, A","-34,040775","Cloete, A"
 "Wednesday, 30 July 2025",SWELLENDAM SS,"0,000000","-34,040775","Cloete, A"
 "Thursday, 31 July 2025",EMIL WEDER SS,"Cloete, A","-34,032741","Cloete, A"
-"Friday, 01 August 2025",0,"Cloete, A",,"Cloete, A"
+"Thursday, 31 July 2025",SWARTBERG SS,"0,000000","-34,246897","Cloete, A"
+"Friday, 01 August 2025",DISTRICT OFFICE,"Cloete, A",NA,"Cloete, A"
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
-"Monday, 04 August 2025",0,,,
-"Tuesday, 05 August 2025",0,,,
-"Wednesday, 06 August 2025",0,,,
-"Thursday, 07 August 2025",0,,,
-"Friday, 08 August 2025",0,,,
+"Monday, 04 August 2025",BOOKED/COMMUNICATED VENUE,"Cloete, A",NA,"Cloete, A"
+"Tuesday, 05 August 2025",BOOKED/COMMUNICATED VENUE,"Cloete, A",NA,"Cloete, A"
+"Wednesday, 06 August 2025",BOOKED/COMMUNICATED VENUE,"Cloete, A",NA,"Cloete, A"
+"Thursday, 07 August 2025",BOOKED/COMMUNICATED VENUE,"Cloete, A",NA,"Cloete, A"
+"Friday, 08 August 2025",BOOKED/COMMUNICATED VENUE,"Cloete, A",NA,"Cloete, A"
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",0,,,
+"Monday, 11 August 2025",VILLIERSDORP SS,"Cloete, A","-33,986005","Cloete, A"
 "Tuesday, 12 August 2025",0,,,
 "Wednesday, 13 August 2025",0,,,
 "Thursday, 14 August 2025",0,,,
@@ -3322,7 +3323,6 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",0,,,
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
