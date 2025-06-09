@@ -2422,7 +2422,7 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Monday, 28 July 2025",GROENBERG SS,"18,999074","-34,156964","Pieters, L"
 "Tuesday, 29 July 2025",VILLIERSDORP SS,"19,281280","-33,986005","Pieters, L"
 "Tuesday, 29 July 2025",VILLIERSDORP SS,"19,281280","-33,986005","Pieters, L"
-"Wednesday, 30 July 2025",SWARTBERG SS,"19,443975","-34,246897","Pieters, L"
+"Wednesday, 30 July 2025",SWELLENDAM SS,"20,445171","-34,040775","Pieters, L"
 "Wednesday, 30 July 2025",SWELLENDAM SS,"20,445171","-34,040775","Pieters, L"
 "Thursday, 31 July 2025",SWARTBERG SS,"19,443975","-34,246897","Pieters, L"
 "Thursday, 31 July 2025",SWARTBERG SS,"19,443975","-34,246897","Pieters, L"
@@ -2437,7 +2437,6 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
 "Monday, 11 August 2025",ALBERT MYBURGH SS,"20,050664","-34,530107","Pieters, L"
-"Monday, 11 August 2025",BREDASDORP HS,"20,036638","-34,539277","Pieters, L"
 "Tuesday, 12 August 2025",HERMANUS HS,"19,242511","-34,410315","Pieters, L"
 "Tuesday, 12 August 2025",NORTHCLIFF HOUSE COLLEGE,"19,170227","-34,404947","Pieters, L"
 "Wednesday, 13 August 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003","Pieters, L"
@@ -2447,51 +2446,52 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Sunday, 17 August 2025",0,,,
 "Monday, 18 August 2025",DE RUST FUTURA AKADEMIE,"19,077970","-34,176712","Pieters, L"
 "Tuesday, 19 August 2025",HAWSTON SS,"19,130603","-34,379621","Pieters, L"
-"Wednesday, 20 August 2025",SWELLENDAM HS,"20,436731","-34,021938","Pieters, L"
+"Wednesday, 20 August 2025",OLYFKRANS COLLEGE,"20,433759","-34,027731","Pieters, L"
 "Thursday, 21 August 2025",BARRYDALE HS,"20,724751","-33,899279","Pieters, L"
 "Friday, 22 August 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 23 August 2025",0,,,
 "Sunday, 24 August 2025",0,,,
-"Monday, 25 August 2025",SWELLENDAM SS,"20,445171","-34,040775","Pieters, L"
+"Monday, 25 August 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003","Pieters, L"
 "Tuesday, 26 August 2025",GROENBERG SS,"18,999074","-34,156964","Pieters, L"
 "Wednesday, 27 August 2025",OVERBERG HS,"19,425270","-34,225916","Pieters, L"
-"Thursday, 28 August 2025",OLYFKRANS COLLEGE,"20,433759","-34,027731","Pieters, L"
+"Thursday, 28 August 2025",SWELLENDAM HS,"20,436731","-34,021938","Pieters, L"
 "Friday, 29 August 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 30 August 2025",0,,,
 "Sunday, 31 August 2025",0,,,
 "Monday, 01 September 2025",DE RUST FUTURA AKADEMIE,"19,077970","-34,176712","Pieters, L"
 "Tuesday, 02 September 2025",DE VILLIERS GRAAFF HS,"19,291830","-33,985500","Pieters, L"
-"Wednesday, 03 September 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003","Pieters, L"
-"Thursday, 04 September 2025",0,,,
-"Friday, 05 September 2025",0,,,
+"Wednesday, 03 September 2025",SWELLENDAM SS,"20,445171","-34,040775","Pieters, L"
+"Thursday, 04 September 2025",BREDASDORP HS,"20,036638","-34,539277","Pieters, L"
+"Friday, 05 September 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 06 September 2025",0,,,
 "Sunday, 07 September 2025",0,,,
-"Monday, 08 September 2025",0,,,
-"Tuesday, 09 September 2025",0,,,
-"Wednesday, 10 September 2025",0,,,
-"Thursday, 11 September 2025",0,,,
-"Friday, 12 September 2025",0,,,
+"Monday, 08 September 2025",HAWSTON SS,"19,130603","-34,379621","Pieters, L"
+"Tuesday, 09 September 2025",RIVIERSONDEREND HS,"19,916581","-34,143819","Pieters, L"
+"Wednesday, 10 September 2025",GRABOUW HS,"19,019141","-34,151454","Pieters, L"
+"Thursday, 11 September 2025",VILLIERSDORP SS,"19,281280","-33,986005","Pieters, L"
+"Friday, 12 September 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 13 September 2025",0,,,
 "Sunday, 14 September 2025",0,,,
-"Monday, 15 September 2025",0,,,
-"Tuesday, 16 September 2025",0,,,
-"Wednesday, 17 September 2025",0,,,
-"Thursday, 18 September 2025",0,,,
-"Friday, 19 September 2025",0,,,
+"Monday, 15 September 2025",DE RUST FUTURA AKADEMIE,"19,077970","-34,176712","Pieters, L"
+"Tuesday, 16 September 2025",CTLI,"18,679156","-33,939495","Pieters, L"
+"Wednesday, 17 September 2025",CTLI,"18,679156","-33,939495","Pieters, L"
+"Thursday, 18 September 2025",CTLI,"18,679156","-33,939495","Pieters, L"
+"Friday, 19 September 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 20 September 2025",0,,,
 "Sunday, 21 September 2025",0,,,
-"Monday, 22 September 2025",0,,,
-"Tuesday, 23 September 2025",0,,,
+"Monday, 22 September 2025",SWARTBERG SS,"19,443975","-34,246897","Pieters, L"
+"Tuesday, 23 September 2025",HERMANUS HS,"19,242511","-34,410315","Pieters, L"
+"Tuesday, 23 September 2025",NORTHCLIFF HOUSE COLLEGE,"19,170227","-34,404947","Pieters, L"
 "Wednesday, 24 September 2025",0,,,
-"Thursday, 25 September 2025",0,,,
-"Friday, 26 September 2025",0,,,
+"Thursday, 25 September 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
+"Friday, 26 September 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 27 September 2025",0,,,
 "Sunday, 28 September 2025",0,,,
-"Monday, 29 September 2025",0,,,
-"Tuesday, 30 September 2025",0,,,
-"Wednesday, 01 October 2025",0,,,
-"Thursday, 02 October 2025",0,,,
-"Friday, 03 October 2025",0,,,
+"Monday, 29 September 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
+"Tuesday, 30 September 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
+"Wednesday, 01 October 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
+"Thursday, 02 October 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
+"Friday, 03 October 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 04 October 2025",0,,,
 "Sunday, 05 October 2025",0,,,
 "Monday, 06 October 2025",0,,,
