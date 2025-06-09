@@ -2436,30 +2436,32 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 08 August 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",0,,,
-"Tuesday, 12 August 2025",0,,,
-"Wednesday, 13 August 2025",0,,,
-"Thursday, 14 August 2025",0,,,
-"Friday, 15 August 2025",0,,,
+"Monday, 11 August 2025",ALBERT MYBURGH SS,"20,050664","-34,530107","Pieters, L"
+"Monday, 11 August 2025",BREDASDORP HS,"20,036638","-34,539277","Pieters, L"
+"Tuesday, 12 August 2025",HERMANUS HS,"19,242511","-34,410315","Pieters, L"
+"Tuesday, 12 August 2025",NORTHCLIFF HOUSE COLLEGE,"19,170227","-34,404947","Pieters, L"
+"Wednesday, 13 August 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003","Pieters, L"
+"Thursday, 14 August 2025",GRABOUW HS,"19,019141","-34,151454","Pieters, L"
+"Friday, 15 August 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 16 August 2025",0,,,
 "Sunday, 17 August 2025",0,,,
-"Monday, 18 August 2025",0,,,
-"Tuesday, 19 August 2025",0,,,
-"Wednesday, 20 August 2025",0,,,
-"Thursday, 21 August 2025",0,,,
-"Friday, 22 August 2025",0,,,
+"Monday, 18 August 2025",DE RUST FUTURA AKADEMIE,"19,077970","-34,176712","Pieters, L"
+"Tuesday, 19 August 2025",HAWSTON SS,"19,130603","-34,379621","Pieters, L"
+"Wednesday, 20 August 2025",SWELLENDAM HS,"20,436731","-34,021938","Pieters, L"
+"Thursday, 21 August 2025",BARRYDALE HS,"20,724751","-33,899279","Pieters, L"
+"Friday, 22 August 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 23 August 2025",0,,,
 "Sunday, 24 August 2025",0,,,
-"Monday, 25 August 2025",0,,,
-"Tuesday, 26 August 2025",0,,,
-"Wednesday, 27 August 2025",0,,,
-"Thursday, 28 August 2025",0,,,
-"Friday, 29 August 2025",0,,,
+"Monday, 25 August 2025",SWELLENDAM SS,"20,445171","-34,040775","Pieters, L"
+"Tuesday, 26 August 2025",GROENBERG SS,"18,999074","-34,156964","Pieters, L"
+"Wednesday, 27 August 2025",OVERBERG HS,"19,425270","-34,225916","Pieters, L"
+"Thursday, 28 August 2025",OLYFKRANS COLLEGE,"20,433759","-34,027731","Pieters, L"
+"Friday, 29 August 2025",DISTRICT OFFICE,NA,NA,"Pieters, L"
 "Saturday, 30 August 2025",0,,,
 "Sunday, 31 August 2025",0,,,
-"Monday, 01 September 2025",0,,,
-"Tuesday, 02 September 2025",0,,,
-"Wednesday, 03 September 2025",0,,,
+"Monday, 01 September 2025",DE RUST FUTURA AKADEMIE,"19,077970","-34,176712","Pieters, L"
+"Tuesday, 02 September 2025",DE VILLIERS GRAAFF HS,"19,291830","-33,985500","Pieters, L"
+"Wednesday, 03 September 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003","Pieters, L"
 "Thursday, 04 September 2025",0,,,
 "Friday, 05 September 2025",0,,,
 "Saturday, 06 September 2025",0,,,
@@ -3246,19 +3248,14 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",0,,,
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-"Saturday, 00 January 1900",0,,,
-"Saturday, 00 January 1900",0,,,
-"Saturday, 00 January 1900",0,,,
-"Saturday, 00 January 1900",0,,,
-"Saturday, 00 January 1900",0,,,
-"Saturday, 00 January 1900",0,,,
-"Saturday, 00 January 1900",0,,,
-"Saturday, 00 January 1900",0,,,
-"Saturday, 00 January 1900",0,,,
-"Saturday, 00 January 1900",0,,,
-"Thursday, 17 July 2025",0,,,
-"Friday, 18 July 2025",0,,,
-"Monday, 21 July 2025",0,,,"Wynne-Trollip, E"
+"Monday, 14 July 2025",CTLI,"18,679156","-33,939495","Wynne-Trollip, E"
+"Tuesday, 15 July 2025",CTLI,"18,679156","-33,939495","Wynne-Trollip, E"
+"Wednesday, 16 July 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
+"Thursday, 17 July 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
+"Friday, 18 July 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
+"Saturday, 19 July 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
+"Sunday, 20 July 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
+"Monday, 21 July 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
 "Tuesday, 22 July 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
 "Wednesday, 23 July 2025",BISSETSDRIFT AKADEMIE,"19,167474","-34,044408","Wynne-Trollip, E"
 "Thursday, 24 July 2025",QHAYIYA SS,"19,215294","-34,428201","Wynne-Trollip, E"
@@ -3283,32 +3280,32 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 08 August 2025",ALBERT MYBURGH SS,"20,050664","-34,530107","Wynne-Trollip, E"
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",0,,,"Wynne-Trollip, E"
-"Tuesday, 12 August 2025",0,,,"Wynne-Trollip, E"
-"Wednesday, 13 August 2025",0,,,"Wynne-Trollip, E"
-"Thursday, 14 August 2025",0,,,"Wynne-Trollip, E"
+"Monday, 11 August 2025",DE RUST FUTURA AKADEMIE,"19,077970","-34,176712","Wynne-Trollip, E"
+"Tuesday, 12 August 2025",UMYEZO WAMA APILE HS,"18,991566","-34,154757","Wynne-Trollip, E"
+"Wednesday, 13 August 2025",GROENBERG SS,"18,999074","-34,156964","Wynne-Trollip, E"
+"Thursday, 14 August 2025",GRABOUW HS,"19,019141","-34,151454","Wynne-Trollip, E"
 "Friday, 15 August 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
 "Saturday, 16 August 2025",0,,,
 "Sunday, 17 August 2025",0,,,
-"Monday, 18 August 2025",0,,,"Wynne-Trollip, E"
-"Tuesday, 19 August 2025",0,,,"Wynne-Trollip, E"
-"Wednesday, 20 August 2025",0,,,"Wynne-Trollip, E"
-"Thursday, 21 August 2025",0,,,"Wynne-Trollip, E"
+"Monday, 18 August 2025",VILLIERSDORP SS,"19,281280","-33,986005","Wynne-Trollip, E"
+"Tuesday, 19 August 2025",DE VILLIERS GRAAFF HS,"19,291830","-33,985500","Wynne-Trollip, E"
+"Wednesday, 20 August 2025",BISSETSDRIFT AKADEMIE,"19,167474","-34,044408","Wynne-Trollip, E"
+"Thursday, 21 August 2025",EMIL WEDER SS,"19,560081","-34,032741","Wynne-Trollip, E"
 "Friday, 22 August 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
 "Saturday, 23 August 2025",0,,,
 "Sunday, 24 August 2025",0,,,
-"Monday, 25 August 2025",0,,,"Wynne-Trollip, E"
-"Tuesday, 26 August 2025",0,,,"Wynne-Trollip, E"
-"Wednesday, 27 August 2025",0,,,"Wynne-Trollip, E"
-"Thursday, 28 August 2025",0,,,"Wynne-Trollip, E"
+"Monday, 25 August 2025",RIVIERSONDEREND HS,"19,916581","-34,143819","Wynne-Trollip, E"
+"Tuesday, 26 August 2025",SWARTBERG SS,"19,443975","-34,246897","Wynne-Trollip, E"
+"Wednesday, 27 August 2025",HAWSTON SS,"19,130603","-34,379621","Wynne-Trollip, E"
+"Thursday, 28 August 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003","Wynne-Trollip, E"
 "Friday, 29 August 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
 "Saturday, 30 August 2025",0,,,
 "Sunday, 31 August 2025",0,,,
-"Monday, 01 September 2025",SCHOOL,NA,NA,"Wynne-Trollip, E"
-"Tuesday, 02 September 2025",SCHOOL,NA,NA,"Wynne-Trollip, E"
-"Wednesday, 03 September 2025",SCHOOL,NA,NA,"Wynne-Trollip, E"
-"Thursday, 04 September 2025",SCHOOL,NA,NA,"Wynne-Trollip, E"
-"Friday, 05 September 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
+"Monday, 01 September 2025",BISSETSDRIFT AKADEMIE,"19,167474","-34,044408","Wynne-Trollip, E"
+"Tuesday, 02 September 2025",CTLI,"18,679156","-33,939495","Wynne-Trollip, E"
+"Wednesday, 03 September 2025",CTLI,"18,679156","-33,939495","Wynne-Trollip, E"
+"Thursday, 04 September 2025",CTLI,"18,679156","-33,939495","Wynne-Trollip, E"
+"Friday, 05 September 2025",CTLI,"18,679156","-33,939495","Wynne-Trollip, E"
 "Saturday, 06 September 2025",0,,,
 "Sunday, 07 September 2025",0,,,
 "Monday, 08 September 2025",SCHOOL,NA,NA,"Wynne-Trollip, E"
@@ -3346,6 +3343,9 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
+#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
