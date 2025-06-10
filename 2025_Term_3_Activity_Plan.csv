@@ -186,25 +186,24 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 08 August 2025",0,,,
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",VILLIERSDORP SS,"19,281280","-33,986005","Auret, J"
-"Tuesday, 12 August 2025",UMYEZO WAMA APILE HS,"18,991566","-34,154757","Auret, J"
-"Wednesday, 13 August 2025",EMIL WEDER SS,"19,560081","-34,032741","Auret, J"
-"Thursday, 14 August 2025",GROENBERG SS,"18,999074","-34,156964","Auret, J"
+"Monday, 11 August 2025",VILLIERSDORP SS,"19,281280","-33,986005",
+"Tuesday, 12 August 2025",UMYEZO WAMA APILE HS,"18,991566","-34,154757",
+"Wednesday, 13 August 2025",EMIL WEDER SS,"19,560081","-34,032741",
+"Thursday, 14 August 2025",GROENBERG SS,"18,999074","-34,156964",
 "Friday, 15 August 2025",0,,,
 "Saturday, 16 August 2025",0,,,
 "Sunday, 17 August 2025",0,,,
-"Monday, 18 August 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003","Auret, J"
-"Tuesday, 19 August 2025",HAWSTON SS,"19,130603","-34,379621","Auret, J"
-"Wednesday, 20 August 2025",SWELLENDAM SS,"20,445171","-34,040775","Auret, J"
-"Thursday, 21 August 2025",HAWSTON SS,"19,130603","-34,379621","Auret, J"
+"Monday, 18 August 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003",
+"Tuesday, 19 August 2025",HAWSTON SS,"19,130603","-34,379621",
+"Wednesday, 20 August 2025",SWELLENDAM SS,"20,445171","-34,040775",
+"Thursday, 21 August 2025",0,,,
 "Friday, 22 August 2025",0,,,
 "Saturday, 23 August 2025",0,,,
 "Sunday, 24 August 2025",0,,,
-"Monday, 25 August 2025",VILLIERSDORP SS,"19,281280","-33,986005","Auret, J"
-"Monday, 25 August 2025",BISSETSDRIFT AKADEMIE,"19,167474","-34,044408","Auret, J"
-"Tuesday, 26 August 2025",GROENBERG SS,"18,999074","-34,156964","Auret, J"
-"Wednesday, 27 August 2025",UMYEZO WAMA APILE HS,"18,991566","-34,154757","Auret, J"
-"Thursday, 28 August 2025",RIVIERSONDEREND HS,"19,916581","-34,143819","Auret, J"
+"Monday, 25 August 2025",0,,,
+"Tuesday, 26 August 2025",0,,,
+"Wednesday, 27 August 2025",0,,,
+"Thursday, 28 August 2025",0,,,
 "Friday, 29 August 2025",0,,,
 "Saturday, 30 August 2025",0,,,
 "Sunday, 31 August 2025",0,,,
@@ -1671,10 +1670,10 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Tuesday, 22 July 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
 "Wednesday, 23 July 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
 "Thursday, 24 July 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
-"Friday, 25 July 2025",BISSETSDRIFT AKADEMIE,"19,167474","-34,044408","Mavata, B"
+"Friday, 25 July 2025",0,,,
 "Saturday, 26 July 2025",0,,,
 "Sunday, 27 July 2025",0,,,
-"Monday, 28 July 2025",MASAKHANE PS,"19,359893","-34,589668","Mavata, B"
+"Monday, 28 July 2025",0,,,
 "Tuesday, 29 July 2025",0,,,
 "Wednesday, 30 July 2025",0,,,
 "Thursday, 31 July 2025",0,,,
@@ -3365,6 +3364,7 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
+#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
