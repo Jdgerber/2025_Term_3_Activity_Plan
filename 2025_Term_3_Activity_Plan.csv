@@ -166,16 +166,16 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",0,,,
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-"Tuesday, 22 July 2025",BREDASDORP HS,"20,036638","-34,539277","Auret, J"
-"Wednesday, 23 July 2025",0,,,
-"Thursday, 24 July 2025",0,,,
+"Tuesday, 22 July 2025",0,,,
+"Wednesday, 23 July 2025",RIVIERSONDEREND HS,"19,916581","-34,143819","Auret, J"
+"Thursday, 24 July 2025",FISHERHAVEN ACADEMY,"19,122308","-34,360550","Auret, J"
 "Friday, 25 July 2025",0,,,
 "Saturday, 26 July 2025",0,,,
 "Sunday, 27 July 2025",0,,,
-"Monday, 28 July 2025",0,,,
-"Tuesday, 29 July 2025",0,,,
-"Wednesday, 30 July 2025",0,,,
-"Thursday, 31 July 2025",0,,,
+"Monday, 28 July 2025",GROENBERG SS,"18,999074","-34,156964","Auret, J"
+"Tuesday, 29 July 2025",QHAYIYA SS,"19,215294","-34,428201","Auret, J"
+"Wednesday, 30 July 2025",SWELLENDAM SS,"20,445171","-34,040775","Auret, J"
+"Thursday, 31 July 2025",SWARTBERG SS,"19,443975","-34,246897","Auret, J"
 "Friday, 01 August 2025",0,,,
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
@@ -186,16 +186,16 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 08 August 2025",0,,,
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",0,,,
-"Tuesday, 12 August 2025",0,,,
-"Wednesday, 13 August 2025",0,,,
-"Thursday, 14 August 2025",0,,,
+"Monday, 11 August 2025",VILLIERSDORP SS,"19,281280","-33,986005",
+"Tuesday, 12 August 2025",UMYEZO WAMA APILE HS,"18,991566","-34,154757",
+"Wednesday, 13 August 2025",EMIL WEDER SS,"19,560081","-34,032741",
+"Thursday, 14 August 2025",GROENBERG SS,"18,999074","-34,156964",
 "Friday, 15 August 2025",0,,,
 "Saturday, 16 August 2025",0,,,
 "Sunday, 17 August 2025",0,,,
-"Monday, 18 August 2025",0,,,
-"Tuesday, 19 August 2025",0,,,
-"Wednesday, 20 August 2025",0,,,
+"Monday, 18 August 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003",
+"Tuesday, 19 August 2025",HAWSTON SS,"19,130603","-34,379621",
+"Wednesday, 20 August 2025",SWELLENDAM SS,"20,445171","-34,040775",
 "Thursday, 21 August 2025",0,,,
 "Friday, 22 August 2025",0,,,
 "Saturday, 23 August 2025",0,,,
@@ -425,11 +425,11 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Tuesday, 29 July 2025",0,,,
 "Wednesday, 30 July 2025",0,,,
 "Thursday, 31 July 2025",0,,,
-"Friday, 01 August 2025",0,,,
+"Friday, 01 August 2025",0,,,"Clarke, M"
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
 "Monday, 04 August 2025",0,,,
-"Tuesday, 05 August 2025",0,,,
+"Tuesday, 05 August 2025",BARRYDALE HS,"20,724751","-33,899279","Clarke, M"
 "Wednesday, 06 August 2025",0,,,
 "Thursday, 07 August 2025",0,,,
 "Friday, 08 August 2025",0,,,
@@ -752,59 +752,61 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",0,,,
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-"Tuesday, 22 July 2025",0,,,
-"Wednesday, 23 July 2025",0,,,
-"Thursday, 24 July 2025",0,,,
-"Friday, 25 July 2025",0,,,
+"Tuesday, 22 July 2025",DISTRICT OFFICE,NA,NA,
+"Wednesday, 23 July 2025",DISTRICT OFFICE,NA,NA,
+"Thursday, 24 July 2025",DISTRICT OFFICE,NA,NA,
+"Friday, 25 July 2025",DISTRICT OFFICE,NA,NA,
 "Saturday, 26 July 2025",0,,,
 "Sunday, 27 July 2025",0,,,
-"Monday, 28 July 2025",0,,,
-"Tuesday, 29 July 2025",0,,,
-"Wednesday, 30 July 2025",0,,,
-"Thursday, 31 July 2025",0,,,
-"Friday, 01 August 2025",0,,,
+"Monday, 28 July 2025",DISTRICT OFFICE,NA,NA,
+"Tuesday, 29 July 2025",RIVIERSONDEREND PS,"19,921577","-34,144991",
+"Saturday, 00 January 1900",RIVIERSONDEREND HS,"19,916581","-34,143819",
+"Wednesday, 30 July 2025",ST. MICHAEL'S EK PS,"18,998862","-34,173368",
+"Thursday, 31 July 2025",SWARTBERG PS,"19,436087","-34,243819",
+"Friday, 01 August 2025",DISTRICT OFFICE,NA,NA,
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
 "Monday, 04 August 2025",0,,,
-"Tuesday, 05 August 2025",0,,,
-"Wednesday, 06 August 2025",0,,,
-"Thursday, 07 August 2025",0,,,
-"Friday, 08 August 2025",0,,,
+"Tuesday, 05 August 2025",BARRYDALE HS,"20,724751","-33,899279",
+"Saturday, 00 January 1900",B.F. OOSTHUIZEN PS,"20,731241","-33,909277",
+"Wednesday, 06 August 2025",BISSETSDRIFT AKADEMIE,"19,167474","-34,044408",
+"Thursday, 07 August 2025",L.R. SCHMIDT MOR PS,"19,559087","-34,034623",
+"Friday, 08 August 2025",DISTRICT OFFICE,NA,NA,
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",0,,,
-"Tuesday, 12 August 2025",0,,,
-"Wednesday, 13 August 2025",0,,,
-"Thursday, 14 August 2025",0,,,
-"Friday, 15 August 2025",0,,,
+"Monday, 11 August 2025",DISTRICT OFFICE,NA,NA,
+"Tuesday, 12 August 2025",GANSBAAI PS,"19,348637","-34,597235",
+"Wednesday, 13 August 2025",DE RUST FUTURA AKADEMIE,"19,077970","-34,176712",
+"Thursday, 14 August 2025",KOSIE DE WET PS,"19,286018","-33,991768",
+"Friday, 15 August 2025",DISTRICT OFFICE,NA,NA,
 "Saturday, 16 August 2025",0,,,
 "Sunday, 17 August 2025",0,,,
-"Monday, 18 August 2025",0,,,
-"Tuesday, 19 August 2025",0,,,
+"Monday, 18 August 2025",DISTRICT OFFICE,NA,NA,
+"Tuesday, 19 August 2025",BONTEBOK PS,"20,446294","-34,035589",
 "Wednesday, 20 August 2025",0,,,
 "Thursday, 21 August 2025",0,,,
 "Friday, 22 August 2025",0,,,
 "Saturday, 23 August 2025",0,,,
 "Sunday, 24 August 2025",0,,,
-"Monday, 25 August 2025",0,,,
-"Tuesday, 26 August 2025",0,,,
+"Monday, 25 August 2025",DISTRICT OFFICE,NA,NA,
+"Tuesday, 26 August 2025",VRT PITT PS,"20,443474","-34,048039",
 "Wednesday, 27 August 2025",0,,,
 "Thursday, 28 August 2025",0,,,
 "Friday, 29 August 2025",0,,,
 "Saturday, 30 August 2025",0,,,
 "Sunday, 31 August 2025",0,,,
-"Monday, 01 September 2025",0,,,
+"Monday, 01 September 2025",DISTRICT OFFICE,NA,NA,
 "Tuesday, 02 September 2025",0,,,
 "Wednesday, 03 September 2025",0,,,
 "Thursday, 04 September 2025",0,,,
 "Friday, 05 September 2025",0,,,
 "Saturday, 06 September 2025",0,,,
 "Sunday, 07 September 2025",0,,,
-"Monday, 08 September 2025",0,,,
-"Tuesday, 09 September 2025",0,,,
-"Wednesday, 10 September 2025",0,,,
-"Thursday, 11 September 2025",0,,,
-"Friday, 12 September 2025",0,,,
+"Monday, 08 September 2025",DISTRICT OFFICE,NA,NA,
+"Tuesday, 09 September 2025",DISTRICT OFFICE,NA,NA,
+"Wednesday, 10 September 2025",DISTRICT OFFICE,NA,NA,
+"Thursday, 11 September 2025",DISTRICT OFFICE,NA,NA,
+"Friday, 12 September 2025",DISTRICT OFFICE,NA,NA,
 "Saturday, 13 September 2025",0,,,
 "Sunday, 14 September 2025",0,,,
 "Monday, 15 September 2025",0,,,
@@ -844,78 +846,78 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Monday, 28 July 2025",GANSBAAI PS,"19,348637","-34,597235","Fisher, B"
 "Tuesday, 29 July 2025",KOSIE DE WET PS,"19,286018","-33,991768","Fisher, B"
 "Wednesday, 30 July 2025",BARRYDALE HS,"20,724751","-33,899279","Fisher, B"
-"Thursday, 31 July 2025",ELANDSRIVIER NGK PS,"19,281755","-33,918817","Gerber, J"
-"Friday, 01 August 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Thursday, 31 July 2025",DE HEIDE PS,"20,051545","-34,531438","Fisher, B"
+"Friday, 01 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
-"Monday, 04 August 2025",INGOMSO LETHU PS,"18,987259","-34,160370","Gerber, J"
-"Tuesday, 05 August 2025",SWARTBERG PS,"19,436087","-34,243819","Gerber, J"
-"Wednesday, 06 August 2025",BOTRIVIER PS,"19,196850","-34,232404","Gerber, J"
-"Thursday, 07 August 2025",DE HEIDE PS,"20,051545","-34,531438","Gerber, J"
-"Friday, 08 August 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 04 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Tuesday, 05 August 2025",SWARTBERG PS,"19,436087","-34,243819","Fisher, B"
+"Wednesday, 06 August 2025",BONTEBOK PS,"20,446294","-34,035589","Fisher, B"
+"Thursday, 07 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Friday, 08 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",RIVIERSONDEREND HS,"19,916581","-34,143819","Gerber, J"
-"Tuesday, 12 August 2025",GANSBAAI PS,"19,348637","-34,597235","Gerber, J"
-"Wednesday, 13 August 2025",B.F. OOSTHUIZEN PS,"20,731241","-33,909277","Gerber, J"
-"Thursday, 14 August 2025",BONTEBOK PS,"20,446294","-34,035589","Gerber, J"
-"Friday, 15 August 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 11 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Tuesday, 12 August 2025",KLEINMOND PS,"19,017958","-34,337140","Fisher, B"
+"Wednesday, 13 August 2025",B.F. OOSTHUIZEN PS,"20,731241","-33,909277","Fisher, B"
+"Thursday, 14 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Friday, 15 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 16 August 2025",0,,,
 "Sunday, 17 August 2025",0,,,
-"Monday, 18 August 2025",VRT PITT PS,"20,443474","-34,048039","Gerber, J"
-"Tuesday, 19 August 2025",UMYEZO WAMA APILE PS,"18,999220","-34,155604","Gerber, J"
-"Wednesday, 20 August 2025",ZWELIHLE PS,"19,208238","-34,424152","Gerber, J"
-"Thursday, 21 August 2025",DE RUST FUTURA AKADEMIE,"19,077970","-34,176712","Gerber, J"
-"Friday, 22 August 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 18 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Tuesday, 19 August 2025",UMYEZO WAMA APILE PS,"18,999220","-34,155604","Fisher, B"
+"Wednesday, 20 August 2025",ZWELIHLE PS,"19,208238","-34,424152","Fisher, B"
+"Thursday, 21 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Friday, 22 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 23 August 2025",0,,,
 "Sunday, 24 August 2025",0,,,
-"Monday, 25 August 2025",HAWSTON PS,"19,132332","-34,389576","Gerber, J"
-"Tuesday, 26 August 2025",SWARTBERG PS,"19,436087","-34,243819","Gerber, J"
-"Wednesday, 27 August 2025",STRUISBAAI PS,"20,034926","-34,780352","Gerber, J"
-"Thursday, 28 August 2025",PINEVIEW PS,"19,001061","-34,156964","Gerber, J"
-"Friday, 29 August 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 25 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Tuesday, 26 August 2025",BISSETSDRIFT AKADEMIE,"19,167474","-34,044408","Fisher, B"
+"Wednesday, 27 August 2025",STRUISBAAI PS,"20,034926","-34,780352","Fisher, B"
+"Thursday, 28 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Friday, 29 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 30 August 2025",0,,,
 "Sunday, 31 August 2025",0,,,
-"Monday, 01 September 2025",KATHLEEN MURRAY PS,"19,003381","-34,154739","Gerber, J"
-"Tuesday, 02 September 2025",LUKHANYO PS,"19,211690","-34,431033","Gerber, J"
-"Wednesday, 03 September 2025",MASAKHANE PS,"19,359893","-34,589668","Gerber, J"
-"Thursday, 04 September 2025",B.F. OOSTHUIZEN PS,"20,731241","-33,909277","Gerber, J"
-"Friday, 05 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 01 September 2025",KATHLEEN MURRAY PS,"19,003381","-34,154739","Fisher, B"
+"Tuesday, 02 September 2025",LUKHANYO PS,"19,211690","-34,431033","Fisher, B"
+"Wednesday, 03 September 2025",MASAKHANE PS,"19,359893","-34,589668","Fisher, B"
+"Thursday, 04 September 2025",MOUNT PLEASANT PS,"19,213629","-34,420771","Fisher, B"
+"Friday, 05 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 06 September 2025",0,,,
 "Sunday, 07 September 2025",0,,,
-"Monday, 08 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Tuesday, 09 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Wednesday, 10 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Thursday, 11 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Friday, 12 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 08 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Tuesday, 09 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Wednesday, 10 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Thursday, 11 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Friday, 12 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 13 September 2025",0,,,
 "Sunday, 14 September 2025",0,,,
-"Monday, 15 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Tuesday, 16 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Wednesday, 17 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Thursday, 18 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Friday, 19 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 15 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Tuesday, 16 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Wednesday, 17 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Thursday, 18 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Friday, 19 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 20 September 2025",0,,,
 "Sunday, 21 September 2025",0,,,
-"Monday, 22 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Tuesday, 23 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 22 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Tuesday, 23 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Wednesday, 24 September 2025",0,,,
-"Thursday, 25 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Friday, 26 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Thursday, 25 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Friday, 26 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 27 September 2025",0,,,
 "Sunday, 28 September 2025",0,,,
-"Monday, 29 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Tuesday, 30 September 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Wednesday, 01 October 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Thursday, 02 October 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Friday, 03 October 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 29 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Tuesday, 30 September 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Wednesday, 01 October 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Thursday, 02 October 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Friday, 03 October 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 04 October 2025",0,,,
 "Sunday, 05 October 2025",0,,,
-"Monday, 06 October 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Tuesday, 07 October 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Wednesday, 08 October 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Thursday, 09 October 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
-"Friday, 10 October 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
+"Monday, 06 October 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Tuesday, 07 October 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Wednesday, 08 October 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Thursday, 09 October 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
+"Friday, 10 October 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
 "Tuesday, 22 July 2025",DISTRICT OFFICE,NA,NA,"Gerber, J"
@@ -1665,9 +1667,9 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",0,,,
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-"Tuesday, 22 July 2025",0,,,
-"Wednesday, 23 July 2025",0,,,
-"Thursday, 24 July 2025",0,,,
+"Tuesday, 22 July 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
+"Wednesday, 23 July 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
+"Thursday, 24 July 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
 "Friday, 25 July 2025",0,,,
 "Saturday, 26 July 2025",0,,,
 "Sunday, 27 July 2025",0,,,
@@ -2814,7 +2816,7 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Wednesday, 10 September 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
 "Thursday, 11 September 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
 "Friday, 12 September 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
-"Saturday, 13 September 2025",0,,,
+"Saturday, 13 September 2025",VILLIERSDORP SS,"19,281280","-33,986005","Theron, M"
 "Sunday, 14 September 2025",0,,,
 "Monday, 15 September 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
 "Monday, 15 September 2025",0,,,"Theron, M"
@@ -3362,8 +3364,6 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
