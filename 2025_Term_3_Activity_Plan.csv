@@ -7,11 +7,15 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 25 July 2025",DISTRICT OFFICE,NA,NA,"Adonis, H"
 "Saturday, 26 July 2025",BOT  SCHOOLS,NA,NA,"Adonis, H"
 "Sunday, 27 July 2025",0,,,
-"Monday, 28 July 2025",0,,,
-"Tuesday, 29 July 2025",0,,,
-"Wednesday, 30 July 2025",0,,,
-"Thursday, 31 July 2025",0,,,
-"Friday, 01 August 2025",0,,,
+"Monday, 28 July 2025",SWELLENDAM SS,"20,445171","-34,040775","Adonis, H"
+"Monday, 28 July 2025",SWELLENDAM SS,"20,445171","-34,040775","Adonis, H"
+"Tuesday, 29 July 2025",DISTRICT OFFICE,NA,NA,"Adonis, H"
+"Tuesday, 29 July 2025",MS TEAMS,NA,NA,"Adonis, H"
+"Wednesday, 30 July 2025",HAWSTON SS,"19,130603","-34,379621","Adonis, H"
+"Wednesday, 30 July 2025",HERMANUS HS,"19,242511","-34,410315","Adonis, H"
+"Thursday, 31 July 2025",DISTRICT OFFICE,NA,NA,"Adonis, H"
+"Thursday, 31 July 2025",OVERBERG HS,"19,425270","-34,225916","Adonis, H"
+"Friday, 01 August 2025",DISTRICT OFFICE,NA,NA,"Adonis, H"
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
 "Monday, 04 August 2025",0,,,
@@ -766,7 +770,8 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Saturday, 26 July 2025",0,,,
 "Sunday, 27 July 2025",0,,,
 "Monday, 28 July 2025",DISTRICT OFFICE,NA,NA,"Du Plessis, S"
-"Tuesday, 29 July 2025",RIVIERSONDEREND PS,"19,921577","-34,144991","Du Plessis, S"
+"Tuesday, 29 July 2025",DISTRICT OFFICE,NA,NA,"Du Plessis, S"
+"Tuesday, 29 July 2025",RIVIERSONDEREND PS,"19,921577","-34,144991",
 "Tuesday, 29 July 2025",RIVIERSONDEREND HS,"19,916581","-34,143819","Du Plessis, S"
 "Wednesday, 30 July 2025",ST. MICHAEL'S EK PS,"18,998862","-34,173368","Du Plessis, S"
 "Thursday, 31 July 2025",SWARTBERG PS,"19,436087","-34,243819","Du Plessis, S"
@@ -850,10 +855,10 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 25 July 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 26 July 2025",0,,,
 "Sunday, 27 July 2025",0,,,
-"Monday, 28 July 2025",GANSBAAI PS,"19,348637","-34,597235","Fisher, B"
+"Monday, 28 July 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Tuesday, 29 July 2025",KOSIE DE WET PS,"19,286018","-33,991768","Fisher, B"
 "Wednesday, 30 July 2025",BARRYDALE HS,"20,724751","-33,899279","Fisher, B"
-"Thursday, 31 July 2025",DE HEIDE PS,"20,051545","-34,531438","Fisher, B"
+"Thursday, 31 July 2025",GANSBAAI PS,"19,348637","-34,597235","Fisher, B"
 "Friday, 01 August 2025",DISTRICT OFFICE,NA,NA,"Fisher, B"
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
@@ -1840,35 +1845,36 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",0,,,
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-"Tuesday, 22 July 2025",0,,,
-"Wednesday, 23 July 2025",0,,,
-"Thursday, 24 July 2025",0,,,
-"Friday, 25 July 2025",0,,,
+"Tuesday, 22 July 2025",DISTRICT OFFICE,NA,NA,
+"Wednesday, 23 July 2025",DE VILLIERS GRAAFF HS,"19,291830","-33,985500","Meyer, G"
+"Thursday, 24 July 2025",ALBERT MYBURGH SS,"20,050664","-34,530107","Meyer, G"
+"Friday, 25 July 2025",DISTRICT OFFICE,NA,NA,
 "Saturday, 26 July 2025",0,,,
 "Sunday, 27 July 2025",0,,,
-"Monday, 28 July 2025",0,,,
-"Tuesday, 29 July 2025",0,,,
-"Wednesday, 30 July 2025",0,,,
-"Thursday, 31 July 2025",0,,,
-"Friday, 01 August 2025",0,,,
+"Monday, 28 July 2025",BUFFELJAGSRIVIER LS,"20,528244","-34,045030","Meyer, G"
+"Tuesday, 29 July 2025",UITKYK LS,"19,606408","-34,048110","Meyer, G"
+"Wednesday, 30 July 2025",DISTRICT OFFICE,NA,NA,
+"Thursday, 31 July 2025",DANIEL LE ROUX PS,"19,110525","-34,069312","Meyer, G"
+"Friday, 01 August 2025",DISTRICT OFFICE,NA,NA,
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
-"Monday, 04 August 2025",0,,,
-"Tuesday, 05 August 2025",0,,,
-"Wednesday, 06 August 2025",0,,,
-"Thursday, 07 August 2025",0,,,
-"Friday, 08 August 2025",0,,,
+"Monday, 04 August 2025",VRT PITT PS,"20,443474","-34,048039","Meyer, G"
+"Tuesday, 05 August 2025",DE RUST FUTURA AKADEMIE,"19,077970","-34,176712","Meyer, G"
+"Wednesday, 06 August 2025",DISTRICT OFFICE,NA,NA,
+"Thursday, 07 August 2025",GRABOUW HS,"19,019141","-34,151454","Meyer, G"
+"Friday, 08 August 2025",DISTRICT OFFICE,NA,NA,
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",0,,,
-"Tuesday, 12 August 2025",0,,,
-"Wednesday, 13 August 2025",0,,,
-"Thursday, 14 August 2025",0,,,
-"Friday, 15 August 2025",0,,,
+"Monday, 11 August 2025",KATHLEEN MURRAY PS,"19,003381","-34,154739","Meyer, G"
+"Tuesday, 12 August 2025",DIE BRON PS,"19,450492","-34,442910","Meyer, G"
+"Wednesday, 13 August 2025",DISTRICT OFFICE,NA,NA,
+"Thursday, 14 August 2025",MASAKHANE PS,"19,359893","-34,589668","Meyer, G"
+"Thursday, 14 August 2025",GANSBAAI PS,"19,348637","-34,597235","Meyer, G"
+"Friday, 15 August 2025",DISTRICT OFFICE,NA,NA,
 "Saturday, 16 August 2025",0,,,
 "Sunday, 17 August 2025",0,,,
-"Monday, 18 August 2025",0,,,
-"Tuesday, 19 August 2025",0,,,
+"Monday, 18 August 2025",RIVIERSONDEREND HS,"19,916581","-34,143819","Meyer, G"
+"Tuesday, 19 August 2025",SWARTBERG PS,"19,436087","-34,243819","Meyer, G"
 "Wednesday, 20 August 2025",0,,,
 "Thursday, 21 August 2025",0,,,
 "Friday, 22 August 2025",0,,,
@@ -2679,52 +2685,52 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",0,,,
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-"Tuesday, 22 July 2025",0,,,
-"Wednesday, 23 July 2025",0,,,
-"Thursday, 24 July 2025",0,,,
-"Friday, 25 July 2025",0,,,
+"Tuesday, 22 July 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Wednesday, 23 July 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Thursday, 24 July 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Friday, 25 July 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
 "Saturday, 26 July 2025",0,,,
 "Sunday, 27 July 2025",0,,,
-"Monday, 28 July 2025",0,,,
-"Tuesday, 29 July 2025",0,,,
-"Wednesday, 30 July 2025",0,,,
-"Thursday, 31 July 2025",0,,,
-"Friday, 01 August 2025",0,,,
+"Monday, 28 July 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Tuesday, 29 July 2025",HAWSTON SS,"19,130603","-34,379621","Swartz, C"
+"Wednesday, 30 July 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Thursday, 31 July 2025",OVERBERG HS,"19,425270","-34,225916","Swartz, C"
+"Friday, 01 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
-"Monday, 04 August 2025",0,,,
-"Tuesday, 05 August 2025",0,,,
-"Wednesday, 06 August 2025",0,,,
-"Thursday, 07 August 2025",0,,,
-"Friday, 08 August 2025",0,,,
+"Monday, 04 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Tuesday, 05 August 2025",CIRCUIT 1 OFFICE,NA,NA,"Swartz, C"
+"Wednesday, 06 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Thursday, 07 August 2025",QHAYIYA SS,"19,215294","-34,428201","Swartz, C"
+"Friday, 08 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",0,,,
-"Tuesday, 12 August 2025",0,,,
-"Wednesday, 13 August 2025",0,,,
-"Thursday, 14 August 2025",0,,,
-"Friday, 15 August 2025",0,,,
+"Monday, 11 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Tuesday, 12 August 2025",0,,,"Swartz, C"
+"Wednesday, 13 August 2025",0,,,"Swartz, C"
+"Thursday, 14 August 2025",0,,,"Swartz, C"
+"Friday, 15 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
 "Saturday, 16 August 2025",0,,,
 "Sunday, 17 August 2025",0,,,
-"Monday, 18 August 2025",0,,,
-"Tuesday, 19 August 2025",0,,,
-"Wednesday, 20 August 2025",0,,,
-"Thursday, 21 August 2025",0,,,
-"Friday, 22 August 2025",0,,,
+"Monday, 18 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Tuesday, 19 August 2025",0,,,"Swartz, C"
+"Wednesday, 20 August 2025",0,,,"Swartz, C"
+"Thursday, 21 August 2025",0,,,"Swartz, C"
+"Friday, 22 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
 "Saturday, 23 August 2025",0,,,
 "Sunday, 24 August 2025",0,,,
-"Monday, 25 August 2025",0,,,
-"Tuesday, 26 August 2025",0,,,
-"Wednesday, 27 August 2025",0,,,
-"Thursday, 28 August 2025",0,,,
-"Friday, 29 August 2025",0,,,
+"Monday, 25 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Tuesday, 26 August 2025",0,,,"Swartz, C"
+"Wednesday, 27 August 2025",0,,,"Swartz, C"
+"Thursday, 28 August 2025",0,,,"Swartz, C"
+"Friday, 29 August 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
 "Saturday, 30 August 2025",0,,,
 "Sunday, 31 August 2025",0,,,
-"Monday, 01 September 2025",0,,,
-"Tuesday, 02 September 2025",0,,,
-"Wednesday, 03 September 2025",0,,,
-"Thursday, 04 September 2025",0,,,
-"Friday, 05 September 2025",0,,,
+"Monday, 01 September 2025",DISTRICT OFFICE,NA,NA,"Swartz, C"
+"Tuesday, 02 September 2025",0,,,"Swartz, C"
+"Wednesday, 03 September 2025",0,,,"Swartz, C"
+"Thursday, 04 September 2025",0,,,"Swartz, C"
+"Friday, 05 September 2025",DANIEL LE ROUX PS,"19,110525","-34,069312","Swartz, C"
 "Saturday, 06 September 2025",0,,,
 "Sunday, 07 September 2025",0,,,
 "Monday, 08 September 2025",0,,,
@@ -2799,10 +2805,10 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Monday, 18 August 2025",HAWSTON SS,"19,130603","-34,379621","Theron, M"
 "Tuesday, 19 August 2025",VILLIERSDORP SS,"19,281280","-33,986005","Theron, M"
 "Wednesday, 20 August 2025",GROENBERG SS,"18,999074","-34,156964","Theron, M"
-"Thursday, 21 August 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
+"Thursday, 21 August 2025",ALBERT MYBURGH SS,"20,050664","-34,530107","Theron, M"
 "Thursday, 21 August 2025",ALL,NA,NA,"Theron, M"
 "Thursday, 21 August 2025",ALL,NA,NA,"Theron, M"
-"Friday, 22 August 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
+"Friday, 22 August 2025",SWARTBERG SS,"19,443975","-34,246897","Theron, M"
 "Saturday, 23 August 2025",0,,,
 "Sunday, 24 August 2025",0,,,
 "Monday, 25 August 2025",HERMANUS HS,"19,242511","-34,410315","Theron, M"
@@ -2826,6 +2832,9 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Wednesday, 10 September 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
 "Thursday, 11 September 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
 "Friday, 12 September 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
+"Saturday, 13 September 2025",GROENBERG SS,"18,999074","-34,156964","Theron, M"
+"Saturday, 13 September 2025",HAWSTON SS,"19,130603","-34,379621","Theron, M"
+"Saturday, 13 September 2025",SWARTBERG SS,"19,443975","-34,246897","Theron, M"
 "Saturday, 13 September 2025",VILLIERSDORP SS,"19,281280","-33,986005","Theron, M"
 "Sunday, 14 September 2025",0,,,
 "Monday, 15 September 2025",DISTRICT OFFICE,NA,NA,"Theron, M"
@@ -3291,15 +3300,6 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",DISTRICT OFFICE,NA,NA,"Wynne-Trollip, E"
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
-#VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
 #VALUE!,#VALUE!,#VALUE!,#VALUE!,#VALUE!
