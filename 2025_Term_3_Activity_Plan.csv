@@ -765,9 +765,9 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
 "Tuesday, 01 July 2025",DISTRICT OFFICE,NA,NA,"Cloete, S"
-"Wednesday, 02 July 2025",SWARTBERG SS,"19,443975","-34,246897",S.Cloete
-"Thursday, 03 July 2025",DISTRICT OFFICE,NA,NA,S.Cloete
-"Friday, 04 July 2025",DISTRICT OFFICE,NA,NA,S. Cloete
+"Wednesday, 02 July 2025",SWARTBERG SS,"19,443975","-34,246897","Cloete, S"
+"Thursday, 03 July 2025",DISTRICT OFFICE,NA,NA,"Cloete, S"
+"Friday, 04 July 2025",DISTRICT OFFICE,NA,NA,"Cloete, S"
 "Saturday, 05 July 2025",0,,,
 "Sunday, 06 July 2025",0,,,
 "Monday, 07 July 2025",DISTRICT OFFICE,NA,NA,"Cloete, S"
@@ -2065,46 +2065,46 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 18 July 2025",0,,,
 "Saturday, 19 July 2025",0,,,
 "Sunday, 20 July 2025",0,,,
-"Monday, 21 July 2025",DISTRICT OFFICE,NA,NA,"Martin, J"
-"Tuesday, 22 July 2025",DISTRICT OFFICE,NA,NA,"Martin, J"
-"Wednesday, 23 July 2025",CTLI,"18,679156","-33,939495","Martin, J"
-"Thursday, 24 July 2025",CTLI,"18,679156","-33,939495","Martin, J"
-"Friday, 25 July 2025",0,,,
+"Monday, 21 July 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Tuesday, 22 July 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Wednesday, 23 July 2025",CTLI,"0,000000","-33,939495","Martin, J"
+"Thursday, 24 July 2025",CTLI,"0,000000","-33,939495","Martin, J"
+"Friday, 25 July 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
 "Saturday, 26 July 2025",0,,,
 "Sunday, 27 July 2025",0,,,
-"Monday, 28 July 2025",0,,,
-"Tuesday, 29 July 2025",0,,,
-"Wednesday, 30 July 2025",0,,,
-"Thursday, 31 July 2025",OVERBERG HS,"19,425270","-34,225916","Martin, J"
-"Friday, 01 August 2025",0,,,
+"Monday, 28 July 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Tuesday, 29 July 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Wednesday, 30 July 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Thursday, 31 July 2025",OVERBERG HS,"0,000000","-34,225916","Martin, J"
+"Friday, 01 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
 "Saturday, 02 August 2025",0,,,
 "Sunday, 03 August 2025",0,,,
-"Monday, 04 August 2025",0,,,
-"Tuesday, 05 August 2025",0,,,
-"Wednesday, 06 August 2025",0,,,
-"Thursday, 07 August 2025",0,,,
-"Friday, 08 August 2025",0,,,
+"Monday, 04 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Tuesday, 05 August 2025",CIRCUIT 1 OFFICE,"0,000000",NA,"Martin, J"
+"Wednesday, 06 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Thursday, 07 August 2025",HAWSTON SS,"0,000000","-34,379621","Martin, J"
+"Friday, 08 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",0,,,
-"Tuesday, 12 August 2025",0,,,
-"Wednesday, 13 August 2025",0,,,
-"Thursday, 14 August 2025",0,,,
-"Friday, 15 August 2025",0,,,
+"Monday, 11 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Tuesday, 12 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Wednesday, 13 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Thursday, 14 August 2025",CTLI,"0,000000","-33,939495","Martin, J"
+"Friday, 15 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
 "Saturday, 16 August 2025",0,,,
 "Sunday, 17 August 2025",0,,,
-"Monday, 18 August 2025",0,,,
-"Tuesday, 19 August 2025",0,,,
-"Wednesday, 20 August 2025",0,,,
-"Thursday, 21 August 2025",0,,,
-"Friday, 22 August 2025",0,,,
+"Monday, 18 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Tuesday, 19 August 2025",FISHERHAVEN ACADEMY,"0,000000","-34,360550","Martin, J"
+"Wednesday, 20 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Thursday, 21 August 2025",SWARTBERG PS,"0,000000","-34,243819","Martin, J"
+"Friday, 22 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
 "Saturday, 23 August 2025",0,,,
 "Sunday, 24 August 2025",0,,,
-"Monday, 25 August 2025",0,,,
-"Tuesday, 26 August 2025",0,,,
-"Wednesday, 27 August 2025",0,,,
-"Thursday, 28 August 2025",0,,,
-"Friday, 29 August 2025",0,,,
+"Monday, 25 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Tuesday, 26 August 2025",VRT PITT PS,"0,000000","-34,048039","Martin, J"
+"Wednesday, 27 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Thursday, 28 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
+"Friday, 29 August 2025",DISTRICT OFFICE,"0,000000",NA,"Martin, J"
 "Saturday, 30 August 2025",0,,,
 "Sunday, 31 August 2025",0,,,
 "Monday, 01 September 2025",0,,,
@@ -2187,11 +2187,11 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Tuesday, 05 August 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
 "Wednesday, 06 August 2025",0,,,
 "Thursday, 07 August 2025",BOT  SCHOOLS,NA,NA,"Mavata, B"
-"Friday, 08 August 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
+"Friday, 08 August 2025",GANSBAAI ACADEMIA,"19,352090","-34,595003","Mavata, B"
 "Saturday, 09 August 2025",0,,,
 "Sunday, 10 August 2025",0,,,
-"Monday, 11 August 2025",UMYEZO WAMA APILE HS,"18,991566","-34,154757","Mavata, B"
-"Tuesday, 12 August 2025",KLEINMOND PS,"19,017958","-34,337140","Mavata, B"
+"Monday, 11 August 2025",BOT  SCHOOLS,NA,NA,"Mavata, B"
+"Tuesday, 12 August 2025",UMYEZO WAMA APILE HS,"18,991566","-34,154757","Mavata, B"
 "Wednesday, 13 August 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
 "Thursday, 14 August 2025",BOT  SCHOOLS,NA,NA,"Mavata, B"
 "Friday, 15 August 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
@@ -2253,7 +2253,7 @@ DATE,SCHOOL/VENUE,LONG,LAT,OFFICIALS
 "Friday, 10 October 2025",DISTRICT OFFICE,NA,NA,"Mavata, B"
 "Saturday, 11 October 2025",0,,,
 "Sunday, 12 October 2025",0,,,
-"Tuesday, 01 July 2025",0,,,Mbekisa B
+"Tuesday, 01 July 2025",0,,,"Mbekisa, B"
 "Wednesday, 02 July 2025",0,,,"Mbekisa, B"
 "Thursday, 03 July 2025",0,,,"Mbekisa, B"
 "Friday, 04 July 2025",0,,,"Mbekisa, B"
